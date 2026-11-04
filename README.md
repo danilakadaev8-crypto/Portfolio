@@ -8,7 +8,7 @@
 * **Навыки:** DAX (CALCULATE, FILTER, DIVIDE, TOPN), Time Intelligence, Data Modeling, настройка кросс-фильтрации.
 * **Файл проекта:** [Analytics_Dashboard.pbix](Analytics_Dashboard.pbix)
 
-![Дашборд Анализ продаж](dashboard.png)
+![Дашборд Анализ продаж](dashboard.png..png)
 
 ## 🔄 2. Моделирование бизнес-процессов (BPMN 2.0)
 **Процесс:** Оптимизация доставки и распределения заказов (на примере e-commerce / foodtech).  
